@@ -1,0 +1,365 @@
+concept,prerequisites,context
+2d tree,"binary tree, linked list, range search, search problem",data structure and algorithm
+a star,"breadth first search, brute force approach, depth first search, quadratic time algorithm, search algorithm, shortest path, shortest path algorithm",data structure and algorithm
+inverse ackermann function,"ackermann function, compression optimization, connected component, mst algorithm, mst problem",data structure and algorithm
+ackermann function,"mst algorithm, mst problem",data structure and algorithm
+adjacency lists,"acyclic graph, graph algorithms, undirected graph",data structure and algorithm
+breadth first search,"acyclic graph, big-o notation, directed acyclic graph, directed edge, directed graph, edge weight, generic graph search, graph algorithms, graph search, search algorithm, undirected graph",data structure and algorithm
+connected component,"acyclic graph, connected graph, directed acyclic graph, directed edge, directed graph",data structure and algorithm
+connected graph,"acyclic graph, edge weight, undirected graph",data structure and algorithm
+depth first search,"acyclic graph, big-o notation, directed acyclic graph, directed edge, directed graph, edge weight, generic graph search, graph algorithms, graph search, search algorithm, undirected graph",data structure and algorithm
+directed acyclic graph,"acyclic graph, directed edge, directed graph",data structure and algorithm
+graph algorithms,"acyclic graph, directed acyclic graph, directed graph, graph search, mst problem, shortest path problem, spanning tree problem",data structure and algorithm
+graph search,"acyclic graph, search algorithm, undirected graph",data structure and algorithm
+adjacency matrix,"adjacency lists, graph algorithms, undirected graph",data structure and algorithm
+approximate pattern matching,"exact pattern matching, pattern matching, string algorithms",data structure and algorithm
+approximation algorithm,"search problem, traveling salesman problem",data structure and algorithm
+big-o notation,"asymptotic analysis, asymptotic notation",data structure and algorithm
+asymptotic analysis,"linear time algorithm, quadratic time algorithm",data structure and algorithm
+o notation,"asymptotic analysis, asymptotic notation",data structure and algorithm
+big omega,"asymptotic notation, o notation",data structure and algorithm
+asymptotic notation,brute force approach,data structure and algorithm
+theta notation,asymptotic notation,data structure and algorithm
+avl trees,"balanced binary search, balanced search, balanced search tree, binary search, binary search tree, binary tree, linked list, search problem, search tree",data structure and algorithm
+red black tree,"avl trees, balance trees, balanced binary search, balanced search, balanced search tree, binary tree, linked list",data structure and algorithm
+splay trees,"avl trees, balanced binary search, balanced search, balanced search tree, binary tree, linked list",data structure and algorithm
+bidirectional search,"backwards search, directed graph, directional search, shortest path, shortest path algorithm",data structure and algorithm
+balance trees,binary search tree,data structure and algorithm
+balanced binary search,"balanced search, balanced search tree, binary search, binary search tree, binary tree, linked list, search tree, search tree problem, sort algorithm",data structure and algorithm
+balanced search tree,"balanced search, binary search tree, binary tree, linked list, search tree, search tree problem",data structure and algorithm
+balanced search,search tree problem,data structure and algorithm
+bellman-ford algorithm,"breadth first search, directed edge, directed graph, edge weight, graph search, search algorithm, shortest path, shortest path algorithm, undirected graph",data structure and algorithm
+bidirectional dijkstra algorithm,"bidirectional search, dijkstra algorithm, directional search, shortest path",data structure and algorithm
+binary search,"big-o notation, comparison based sort, search algorithm",data structure and algorithm
+brute force approach,big-o notation,data structure and algorithm
+heap sort,"big-o notation, binary max heap, binary tree, comparison based algorithm, comparison based sort, priority queue, sort algorithm",data structure and algorithm
+knockout tournament,"big-o notation, randomized selection algorithm, selection problem",data structure and algorithm
+kruskal algorithm,"big-o notation, connected component, minimum spanning tree, spanning tree",data structure and algorithm
+linear time algorithm,big-o notation,data structure and algorithm
+merge sort,"big-o notation, comparison based algorithm, comparison based sort, deterministic algorithm, increasing order, priority queue",data structure and algorithm
+mst algorithm,"big-o notation, breadth first search, depth first search, graph algorithms, greedy algorithm, minimum spanning tree, mst problem, spanning tree, spanning tree algorithm, spanning tree problem, sub graph, undirected graph",data structure and algorithm
+programming algorithms,"big-o notation, discrete probability",data structure and algorithm
+quadratic time algorithm,"big-o notation, polynomial time",data structure and algorithm
+quick sort,"big-o notation, comparison based algorithm, comparison based sort, increasing order, recursive algorithm, recursive call",data structure and algorithm
+randomized algorithm,big-o notation,data structure and algorithm
+randomized selection algorithm,"big-o notation, random variable, randomized algorithm, select algorithm, selection problem, sort algorithm, sorting problem",data structure and algorithm
+select algorithm,"big-o notation, comparison based sort, increasing order, knockout tournament, selection problem, sort algorithm",data structure and algorithm
+sort algorithm,"big-o notation, big omega, increasing order, random permutation, sorting problem",data structure and algorithm
+spanning tree algorithm,"big-o notation, greedy algorithm, spanning tree, spanning tree problem, undirected graph",data structure and algorithm
+binary search tree,"binary code, binary search, binary tree, comparison based sort, search tree, search tree algorithm",data structure and algorithm
+binary tree,"binary code, search tree",data structure and algorithm
+binary max heap,"binary heap, binary tree, complete binary tree",data structure and algorithm
+binary heap,"binary search, binary tree, complete binary tree, doubly linked list, heap sort, linked list",data structure and algorithm
+priority queue,"binary heap, binary max heap, linked list, sort algorithm",data structure and algorithm
+optimal binary search,"binary search, binary search tree, binary tree, brute force approach, optimal substructure lemma, search tree, search tree algorithm, search tree problem, weighted search",data structure and algorithm
+complete binary tree,"binary tree, connected graph",data structure and algorithm
+interval search tree,"binary tree, interval search, range search, search tree, sub tree",data structure and algorithm
+bipartite graph,directed graph,data structure and algorithm
+bipartite matching,network flows,data structure and algorithm
+hash tables,birthday paradox,data structure and algorithm
+edmonds-karp algorithm,"breadth first search, depth first search, ford-fulkerson algorithm, network flows, residual graph, residual network",data structure and algorithm
+ford-fulkerson algorithm,"breadth first search, depth first search, network flows, residual graph, residual network",data structure and algorithm
+dynamic program,"brute force approach, divide-and-conquer algorithm, dynamic programming matrix, dynamic programming paradigm, edit distance problem, fractional knapsack, graph algorithms, graph search, independence set problem, iterative algorithm, polynomial algorithm, polynomial time, polynomial time algorithm, programming algorithms, traveling salesman problem",data structure and algorithm
+dynamic programming paradigm,brute force approach,data structure and algorithm
+optimal substructure lemma,"brute force approach, sub tree",data structure and algorithm
+traveling salesman problem,"brute force approach, edge weight, search problem, undirected graph",data structure and algorithm
+bubble sort,"increasing order, quadratic algorithm, sort algorithm, sorting problem",data structure and algorithm
+bucket sort,"deterministic algorithm, sort algorithm",data structure and algorithm
+stable sort,"bucket sort, sort algorithm",data structure and algorithm
+closest pair algorithm,"euclidean distance, quadratic time algorithm, randomized algorithm, recursive algorithm, recursive call",data structure and algorithm
+clustering problem,euclidean distance,data structure and algorithm
+greedy clustering,"clustering problem, connected component, greedy algorithm",data structure and algorithm
+randomized quick sort,"comparison based algorithm, increasing order, quick sort, randomized algorithm, sort algorithm, sorting problem",data structure and algorithm
+selection sort,"comparison based algorithm, increasing order, select algorithm, sort algorithm, sorting problem",data structure and algorithm
+comparison based algorithm,sort algorithm,data structure and algorithm
+comparison based sort,sort algorithm,data structure and algorithm
+union find,"compression optimization, search tree, union approach",data structure and algorithm
+contraction algorithm,"connected component, connected graph, minimum cut problem, randomized algorithm, undirected graph",data structure and algorithm
+empty cut lemma,"connected component, connected graph",data structure and algorithm
+spanning tree,"connected graph, graph algorithms, sub graph, undirected graph",data structure and algorithm
+random contraction algorithm,"contraction algorithm, minimum cut problem, randomized algorithm, undirected graph",data structure and algorithm
+contraction hierarchies,"dijkstra algorithm, directed edge, directional search, shortest path",data structure and algorithm
+cryptographic hash,hash tables,data structure and algorithm
+de bruijn graph,"directed edge, directed graph, eulerian cycle, eulerian path, hamiltonian cycle",data structure and algorithm
+deterministic algorithm,"decomposition principle, sort algorithm, stable sort",data structure and algorithm
+divide-and-conquer algorithm,"decomposition principle, merge sort, selection sort",data structure and algorithm
+deterministic hash function,hash tables,data structure and algorithm
+dijkstra algorithm,"directed graph, directional search, edge weight, shortest path, undirected graph",data structure and algorithm
+directed graph,"directed edge, edge weight",data structure and algorithm
+directional search,"directed graph, search algorithm",data structure and algorithm
+eulerian cycle,"directed graph, eulerian path, undirected graph",data structure and algorithm
+eulerian path,directed graph,data structure and algorithm
+hamiltonian cycle,"directed graph, search problem, traveling salesman problem, undirected graph",data structure and algorithm
+doubly linked list,linked list,data structure and algorithm
+dual program,programming problems,data structure and algorithm
+minimum cut problem,"edge weight, image segmentation, programming problems, undirected graph",data structure and algorithm
+minimum dist,edge weight,data structure and algorithm
+minimum spanning tree,"edge weight, euclidean distance, minimum dist, spanning tree, spanning tree algorithm, spanning tree problem",data structure and algorithm
+shortest path,"edge weight, euclidean distance, network flows, undirected graph",data structure and algorithm
+shortest path algorithm,"edge weight, euclidean distance, graph algorithms, greedy algorithm, shortest path, shortest path problem, smallest greedy, undirected graph",data structure and algorithm
+shortest path problem,"edge weight, shortest path, sub graph, traveling salesman problem",data structure and algorithm
+knuth-morris-pratt algorithm,"exact pattern matching, pattern matching",data structure and algorithm
+exact pattern matching,"pattern matching, string algorithms",data structure and algorithm
+suffix tree,"exact pattern matching, pattern matching",data structure and algorithm
+greedy algorithm,"fractional knapsack, mst problem, optimal substructure lemma, programming algorithms, shortest path problem, spanning tree problem",data structure and algorithm
+generic graph search,graph search,data structure and algorithm
+search tree,"graph algorithms, linked list, search problem, unbalanced tree",data structure and algorithm
+greedy heuristic,greedy algorithm,data structure and algorithm
+random hash,"hash tables, random hash function, random variable",data structure and algorithm
+random hash function,"hash tables, random variable",data structure and algorithm
+image segmentation,undirected graph,data structure and algorithm
+sorting problem,increasing order,data structure and algorithm
+independence set problem,search problem,data structure and algorithm
+intersection search,search problem,data structure and algorithm
+interval search,"range search, search problem",data structure and algorithm
+karatsuba multiplication,"recursive algorithm, recursive call",data structure and algorithm
+lazy union approach,"union approach, union find",data structure and algorithm
+left-leaning red-black tree,"red black tree, regular binary search, search tree",data structure and algorithm
+range search,"line segments, search problem",data structure and algorithm
+sweep line algorithm,line segments,data structure and algorithm
+linear inequality,linear function,data structure and algorithm
+linear function,"linear problem, linear programming problems, programming problems",data structure and algorithm
+linear program,"linear function, linear problem, linear programming problems, programming algorithms, programming problems",data structure and algorithm
+linear probing,random variable,data structure and algorithm
+linear programming problems,programming problems,data structure and algorithm
+linear search,search algorithm,data structure and algorithm
+sub tree,linked list,data structure and algorithm
+mst problem,"minimum spanning tree, spanning tree, spanning tree problem, sub graph, undirected graph",data structure and algorithm
+mst verification,"minimum spanning tree, mst algorithm, spanning tree",data structure and algorithm
+naive recursive algorithm,recursive algorithm,data structure and algorithm
+network flows,"residual graph, residual network",data structure and algorithm
+np-complete problem,traveling salesman problem,data structure and algorithm
+pattern matching,string algorithms,data structure and algorithm
+suffix trie,"pattern matching, suffix tree",data structure and algorithm
+polynomial algorithm,"polynomial time, polynomial time algorithm",data structure and algorithm
+polynomial hash,random hash,data structure and algorithm
+polynomial time algorithm,polynomial time,data structure and algorithm
+residual network,"programming problems, residual graph",data structure and algorithm
+quadratic algorithm,quadratic time algorithm,data structure and algorithm
+recursive algorithm,recursive call,data structure and algorithm
+regular binary search,search problem,data structure and algorithm
+residual graph,undirected graph,data structure and algorithm
+search algorithm,search problem,data structure and algorithm
+search tree algorithm,"search problem, search tree, search tree problem",data structure and algorithm
+search tree problem,search tree,data structure and algorithm
+shortest path tree,"shortest path, undirected graph",data structure and algorithm
+spanning tree problem,spanning tree,data structure and algorithm
+activation function,"activation values, hidden layer, hidden unit, logistic function, neural network, sigmoid function",machine learning
+back prop,"activation function, activation values, bias unit, classification problem, features, derivative term, error cost function, forward propagation, global optimum, gradient descent, hidden layer, hidden unit, hypothesis, input layer, input units, learning method, learning rate, linear regression, local minimum, local optima, logistic function, logistic regression, loss function, multi-class classification, neural network, matrix, optimization algorithms, output layer, output unit, parameter vector, partial derivative, squared error, training data, training data set",machine learning
+forward propagation,"activation function, activation values, bias unit, classification problem, features, derivative term, error cost function, feature vector, hidden layer, hidden unit, hypothesis, input layer, input units, learning method, logistic function, logistic regression, loss function, matrix vector multiplication, neural network, nonlinear hypotheses, matrix, optimization algorithms, output label, output layer, output unit, parameter vector, partial derivative, sigmoid function, training data, training data set, vector multiplication",machine learning
+activation values,"hidden layer, hidden unit, neural network",machine learning
+adaboost,"boosting algorithm, learning method, machine learning, machine learning algorithm, negative example, positive data, training data, training error, weak classifier",machine learning
+agglomerative clustering,"cluster, clustering algorithm, data set, hierarchical clustering, k means",machine learning
+anomaly detection,"anomalous example, data set, labeled data, learning method, learning problem, learning system, machine learning, machine learning algorithm, machine learning system, negative example, non-anomalous examples, positive data, positive training example, supervised learning, training data, training data set, unsupervised learning",machine learning
+anomalous example,"data set, labeled data, training data, training data set",machine learning
+neural network learning,"back prop, classification problem, features, derivative term, forward propagation, global optimum, gradient descent, hidden layer, hidden unit, hypothesis, input layer, input units, learning method, linear regression, local minimum, local optima, logistic regression, loss function, multi-class classification, neural network, matrix, optimization algorithms, partial derivative, training data, training data set",machine learning
+batch gradient descent,"big data sets, derivative term, global minimum, global optimum, gradient descent, hypothesis, iterative algorithm, learning method, learning problem, linear algebra, local optima, loss function, optimization algorithms, optimization objective, partial derivative, squared error",machine learning
+learning rate,"batch gradient descent, gradient descent, machine learning, optimization algorithms",machine learning
+mini-batch gradient descent,"batch gradient descent, gradient descent, training data, training data set",machine learning
+mini-batch size,"batch gradient descent, gradient descent, mini-batch gradient descent",machine learning
+bayesian inference,"bayesian approach, conditional distribution, data set, joint model probability, learning method, learning problem, machine learning, machine learning algorithm, maximum likelihood, maximum likelihood estimate, model parameters, probabilistic model",machine learning
+bayesian approach,"log likelihood, maximum likelihood, maximum likelihood estimate",machine learning
+gibbs sampler,"bayesian inference, features, conditional distribution, data set, gaussian density, joint model probability, maximum likelihood, maximum likelihood estimate, prior probability, probabilistic model",machine learning
+latent dirichlet allocation,"bayesian inference, features, conditional distribution, data set, joint model probability, learning method, learning problem, loss function, machine learning, machine learning algorithm, matrix, optimization algorithms, prior probability, probabilistic model",machine learning
+cross validation error,"bias problem, classification error, cross validation, cross validation sets, data set, error analysis, generalization error, learning problem, machine learning, prediction error, test data, test data set, test error, training data, training data set, training error, validation error, validation set, variance problem, overfitting, underfitting",machine learning
+bias problem,"data set, evaluation metrics, generalization error, hypothesis, learning method, learning problem, learning system, loss function, machine learning, massive training set, model selection, supervised learning, test data set, test error, training data, training data set, training error",machine learning
+learning curve,"bias problem, cross validation, cross validation error, error analysis, evaluation metrics, global minimum, precision, recall, learning problem, machine learning, optimization objective, test data set, test error, training data, training data set, training error",machine learning
+regularization,"bias problem, bias variance trade-off, binary classification, classification error, feature vector, linear algebra, local minimum, local optima, minimization problem, misclassification error, model parameters, matrix, optimal solution, optimization objective, optimization problem, parameter vector, polynomial terms, supervised learning, variance problem, overfitting, underfitting",machine learning
+bias unit,"hidden layer, hidden unit, input layer, input units, neural network, parameter vector",machine learning
+bias variance trade-off,"data set, error analysis, generalization error, recall, input data, learning method, learning problem, learning system, loss function, machine learning, machine learning algorithm, machine learning system, model complexity, model selection, prediction error, test data, test data set, test error, training data, training data set, training error, tuning parameter, validation set, overfitting, underfitting",machine learning
+big data sets,data set,machine learning
+deep learning,"big data sets, classification problem, features, data representation, data set, deep features, feature extraction, learning method, learning problem, linear classifier, machine learning, machine learning algorithm, neural network, partial derivative, training data, training data set",machine learning
+deep neural network,"big data sets, features, data representation, data set, deep features, labeled data, learning method, linear classifier, machine learning, neural network, training data",machine learning
+document retrieval,"big data sets, data set, learning problem, machine learning",machine learning
+neural network,"big data sets, binary classification, classification approach, classification problem, features, data representation, data set, deep features, feature extraction, feature space, feature vector, global minimum, gradient descent, precision, recall, hypothesis, inner product, input data, labeled data, learning method, learning problem, learning rate, learning system, linear classifier, linear regression, logistic function, logistic regression, loss function, machine learning, machine learning algorithm, machine learning system, massive training set, matrix factorization, minimization problem, multi-class classification, negative example, nonlinear hypotheses, matrix, optimal solution, optimization algorithms, optimization objective, optimization problem, parameter vector, partial derivative, positive class, positive data, regularization, sigmoid function, stochastic gradient algorithm, supervised learning, test data, test data set, training data, training data set",machine learning
+recommender system,"big data sets, features, data set, learning problem, learning system, machine learning application, machine learning system",machine learning
+binary classification,"classification approach, classification problem, features, data set, learning method, machine learning, machine learning algorithm, negative example, positive class, positive data, positive training example, predicted class, predicted value, test data set, training data, training data set",machine learning
+multi-class classification,"binary classification, classification approach, classification problem, features, data set, feature space, feature vector, input data, learning method, learning problem, learning system, linear algebra, linear classifier, logistic regression, machine learning, machine learning algorithm, negative example, positive class, positive data, training data, training data set",machine learning
+boosting algorithm,"data set, learning method, learning problem, machine learning, machine learning algorithm, training data, weak classifier",machine learning
+character segmentation,"character recognition, learning problem, learning system, machine learning, machine learning application, machine learning system, test data, test data set, training data, training data set",machine learning
+character recognition,"classification approach, computer vision, data set, learning problem, learning system, machine learning, machine learning application, machine learning system, ocr problem, test data, test data set, training data, training data set",machine learning
+photo ocr,"character recognition, computer vision, data set, learning problem, learning system, machine learning, machine learning application, machine learning system, ocr problem",machine learning
+classification accuracy,"classification problem, data set, evaluation metrics, input data, labeled data, learning problem, machine learning, negative example, positive data, predicted class, predicted value, supervised learning, test data, test data set",machine learning
+confusion matrix,"classification accuracy, classification error, data set, false negative, false positives, precision, recall, matrix, positive class, true negatives, true positives",machine learning
+cross validation,"classification accuracy, classification error, features, data set, generalization error, learning problem, machine learning, negative example, positive data, positive training example, predicted value, prediction error, supervised learning, test data, test data set, test error, training data, training data set, training error, tuning parameter, validation set, variance problem, overfitting, underfitting",machine learning
+error analysis,"classification accuracy, evaluation metrics, input data, labeled data, negative example, positive data, test data set, training data, training data set",machine learning
+f1 score,"classification accuracy, evaluation metrics, precision, recall, labeled data, learning problem, test data, test data set, training data, training data set",machine learning
+false negative,"classification accuracy, classification error, error analysis, labeled data, learning problem, machine learning, negative example, output label, positive class, positive data, positive predictions, predicted class, predicted value, test data, test data set",machine learning
+false positives,"classification accuracy, classification error, error analysis, labeled data, learning problem, negative example, output label, positive class, positive data, positive predictions, predicted class, predicted value, test data, test data set",machine learning
+true negatives,"classification accuracy, classification error, machine learning, positive class, test data, test data set, training data, training data set",machine learning
+true positives,"classification accuracy, classification error, error analysis, machine learning, positive class, positive data, predicted class, test data, test data set, training data, training data set",machine learning
+validation set,"classification accuracy, data set, labeled data, learning problem, machine learning, test data, test data set, training data, training data set",machine learning
+classification approach,"classification problem, features, data set, feature vector, learning method, learning problem, machine learning, machine learning algorithm, positive class, positive data, supervised learning",machine learning
+linear classifier,"classification approach, classification problem, features, data set, feature space, feature vector, hypothesis, input data, labeled data, learning method, learning problem, learning system, linear model, machine learning, machine learning algorithm, negative example, positive class, positive data, positive predictions, positive training example",machine learning
+logistic regression,"classification approach, classification problem, features, data set, derivative term, feature space, feature vector, gradient descent, hypothesis, inner product, input data, labeled data, learning method, learning problem, learning system, linear algebra, linear classifier, linear model, machine learning, machine learning algorithm, machine learning system, negative example, matrix, optimization algorithms, optimization problem, parameter vector, positive class, positive data, positive training example, predicted value, sigmoid function, supervised learning, test data, test data set, training data, training data set",machine learning
+sentiment analysis,"classification approach, features, data set, feature extraction, input data, learning method, linear classifier, machine learning, machine learning algorithm, test data, test data set, training data, training data set",machine learning
+test error,"classification approach, classification error, error analysis, evaluation metrics, prediction error, test data, test data set",machine learning
+training error,"classification approach, classification error, evaluation metrics, negative example, prediction error, training data, training data set",machine learning
+variance problem,"classification approach, error analysis, generalization error, learning curve, learning problem, machine learning, supervised learning, test data set, test error, training data, training data set, training error",machine learning
+classification error,"classification problem, data set, error analysis, machine learning, negative example, positive class, positive data, predicted class, predicted value",machine learning
+precision recall curve,"classification error, false negative, false positives, precision, recall, positive class, positive data, test data",machine learning
+validation error,"classification error, cross validation, error analysis, prediction error, test data, test data set, test error, training data, training data set, training error, validation set, overfitting, underfitting",machine learning
+overfitting,"classification error, error analysis, estimated parameters, feature vector, generalization error, learning curve, machine learning, misclassification error, model parameters, supervised learning, test data, test data set, test error, training data, training data set, training error",machine learning
+underfitting,"classification error, feature vector, generalization error, learning curve, machine learning, misclassification error, test data, test data set, test error, training data, training data set, training error",machine learning
+classification problem,"data set, learning problem, machine learning, supervised learning",machine learning
+decision boundaries,"classification problem, features, data set, feature space, feature vector, hypothesis, input data, learning method, learning problem, machine learning, supervised learning",machine learning
+decision tree,"classification problem, features, data set, learning method, learning problem, machine learning, machine learning algorithm, negative example, positive data, test data, training data",machine learning
+image classification,"classification problem, features, computer vision, data set, feature extraction, labeled data, learning problem, machine learning, positive class",machine learning
+misclassification error,"classification problem, learning method",machine learning
+support vector machine,"classification problem, features, data set, decision boundaries, feature space, feature vector, hypothesis, inner product, input data, labeled data, large margin classifier, learning method, learning problem, linear algebra, linear classifier, local optima, logistic regression, loss function, machine learning, machine learning algorithm, machine learning system, minimization problem, negative example, matrix, optimal solution, optimization algorithms, optimization objective, optimization problem, polynomial terms, positive class, positive data, supervised learning, support vector, test data, test data set, training data, training data set",machine learning
+cluster center,"cluster, clustering algorithm",machine learning
+hierarchical clustering,"cluster center, cluster, clustering algorithm, k means",machine learning
+k means,"cluster center, cluster, clustering algorithm, feature vector, iterative algorithm, learning method, learning problem, learning system, machine learning, machine learning algorithm, optimization objective, test data set, unsupervised learning",machine learning
+k-means objective,"cluster center, cluster, clustering algorithm, k means, local optima",machine learning
+clustering algorithm,"cluster, data set, learning method, learning problem, machine learning, machine learning algorithm, unsupervised learning",machine learning
+collaborative filtering,"cluster, data set, feature vector, learning method, learning problem, linear algebra, machine learning, machine learning algorithm, matrix factorization, matrix, predicted value, recommender system, symmetric matrix, test data set, training data, training data set",machine learning
+cluster,unsupervised learning,machine learning
+computer vision,"features, data set, machine learning, machine learning application, machine learning system",machine learning
+features,"data representation, learning problem, learning system, machine learning",machine learning
+decision stamp,"features, decision tree, learning method, machine learning, machine learning algorithm",machine learning
+deep features,"features, feature extraction, learning problem, machine learning",machine learning
+design matrix,"features, data set, feature vector, learning method, matrix, training data, training data set",machine learning
+dimensionality reduction,"features, data set, feature vector, learning method, linear algebra, machine learning, machine learning algorithm, matrix, unsupervised learning",machine learning
+face detection,"features, computer vision, data set, learning problem, learning system, machine learning application, machine learning system",machine learning
+feature engineering,"features, data representation, data set, feature selection, learning problem, machine learning",machine learning
+feature extraction,"features, data set, learning problem, machine learning",machine learning
+feature scaling,"features, feature space, feature vector, input data, learning problem, machine learning, parameter vector, training data, training data set",machine learning
+feature selection,"features, feature vector, learning method, learning problem, machine learning, test data, test data set, training data",machine learning
+feature space,"features, data representation, data set, feature vector, inner product, input data, learning problem, machine learning, matrix, parameter vector, polynomial features",machine learning
+feature vector,"features, data representation, input data, learning problem, machine learning, supervised learning",machine learning
+generalized linear models,"features, linear classifier, linear model, linear regression, logistic regression, machine learning",machine learning
+image retrieval,"features, computer vision, data set, feature extraction, learning problem, machine learning",machine learning
+large margin classifier,"features, data set, decision boundaries, inner product, learning method, linear classifier, logistic regression, negative example, positive data, training data",machine learning
+lasso regression,"features, data set, learning method, linear regression, machine learning, machine learning algorithm, optimal solution, optimization algorithms, optimization problem, regression coefficients, regression function, regression model, training data",machine learning
+linear model,"features, input data, machine learning",machine learning
+linear regression,"features, data set, derivative term, feature space, feature vector, hypothesis, inner product, input space, learning method, learning problem, learning system, linear algebra, linear model, loss function, machine learning, machine learning algorithm, optimization algorithms, optimization problem, predicted value, regression coefficients, regression function, regression model, regression problem, supervised learning, test data, test data set, training data, training data set",machine learning
+mean normalization,"features, feature scaling",machine learning
+mixture model,"features, data set, gaussian model, joint model probability, learning method, learning problem, machine learning, machine learning algorithm, model parameters, prior probability, probabilistic model, random variable",machine learning
+model selection,"features, cross validation, cross validation error, cross validation sets, data set, feature selection, generalization error, hypothesis, learning method, learning problem, model complexity, model parameters, parameter vector, test data, test data set, test error, training data, training data set, training error, tuning parameter, validation error, validation set, variance problem, overfitting, underfitting",machine learning
+normalized features,features,machine learning
+online learning,"features, data set, feature vector, hypothesis, learning method, learning problem, learning rate, machine learning, test data, test data set, training data, training data set",machine learning
+pca algorithm,"features, covariance matrix, data set, dimensionality reduction, feature vector, linear algebra, matrix transpose, matrix, principle components, square projection error",machine learning
+polynomial features,"features, feature vector, high order polynomial, polynomial terms",machine learning
+polynomial regression,"features, high order polynomial, hypothesis, learning method, linear regression, machine learning, matrix, optimization algorithms, optimization objective, parameter vector, polynomial features, polynomial terms, regression function, regression model, regression problem, test data, test data set, training data, training data set",machine learning
+regression model,"features, data set, feature vector, hypothesis, input data, input space, learning method, learning problem, machine learning algorithm, predicted value, regression function, supervised learning, training data, training data set",machine learning
+regression problem,"features, data set, learning problem, machine learning, supervised learning, training data, training data set",machine learning
+regularized linear regression,"features, gradient descent, hypothesis, learning method, linear algebra, linear regression, loss function, machine learning, machine learning algorithm, negative example, matrix, optimization algorithms, optimization objective, optimization problem, parameter vector, partial derivative, polynomial terms, regression model, regularization, test data set, training data, training data set",machine learning
+regularized logistic regression,"features, data set, gradient descent, hypothesis, learning method, linear classifier, logistic regression, loss function, machine learning, machine learning algorithm, negative example, optimization algorithms, parameter vector, partial derivative, polynomial terms, positive data, regularization, sigmoid function, test data, training data, training data set",machine learning
+sentiment classifier,"features, input data, learning method, machine learning, machine learning algorithm, sentiment analysis, test data, training data",machine learning
+spam filtering,"features, learning problem, learning system, machine learning, machine learning application, machine learning system",machine learning
+supervised learning,"features, data set, labeled data, learning method, learning problem, machine learning, negative example, test data, test data set, training data, training data set",machine learning
+transfer learning,"features, data set",machine learning
+unnormalized features,features,machine learning
+unsupervised learning,"features, data set, learning method, learning problem, machine learning",machine learning
+weak classifier,"features, learning method, learning problem, machine learning",machine learning
+ocr problem,"computer vision, machine learning, machine learning application, machine learning system",machine learning
+pedestrian detection,"computer vision, learning method, machine learning, supervised learning, test data set, training data, training data set",machine learning
+gaussian density,"conditional distribution, gaussian random variable, identity matrics, probability density, standard deviation, symmetric matrix",machine learning
+joint model probability,conditional distribution,machine learning
+maximum likelihood,"conditional distribution, likelihood function, log likelihood, optimization algorithms, parameter estimation, parameter vector, probabilistic model, probability density, random variable",machine learning
+maximum likelihood estimate,"conditional distribution, log likelihood, maximum likelihood, parameter estimation, parameter vector, probabilistic model, probability density, random variable",machine learning
+probabilistic model,"conditional distribution, covariance matrix, gaussian density, joint model probability, learning problem, random variable, standard deviation",machine learning
+conjugate gradient,"matrix, optimal solution, optimization algorithms, optimization objective, parameter vector, partial derivative",machine learning
+convergence test,"gradient descent, learning rate, loss function",machine learning
+error cost function,"convex function, hidden layer, hidden unit, input layer, input units, linear algebra, loss function, neural network, output layer, output unit",machine learning
+gradient ascent,"convex function, gradient algorithm, learning method, machine learning, optimal solution, partial derivative, predicted value",machine learning
+gradient descent,"convex function, derivative term, feature vector, global optimum, iterative algorithm, learning method, linear algebra, local minimum, local optima, machine learning, machine learning algorithm, matrix multiplication, matrix vector multiplication, minimization problem, model parameters, matrix, optimal solution, optimization algorithms, optimization objective, optimization problem, parameter vector, partial derivative, supervised learning",machine learning
+normal equation,"convex function, derivative term, design matrix, feature vector, global minimum, gradient descent, learning problem, linear algebra, linear regression, local optima, loss function, machine learning, matrix, optimal solution, optimization objective, parameter vector, partial derivative, regression model, regression problem, training data, training data set",machine learning
+stochastic gradient algorithm,"convex function, derivative term, gradient algorithm, gradient ascent, gradient descent, hypothesis, learning method, learning problem, learning rate, linear algebra, loss function, matrix, optimal solution, optimization algorithms, optimization objective, partial derivative",machine learning
+coordinate descent,"global optimum, local optima, loss function, matrix, optimal solution, optimization algorithms, optimization objective, optimization problem",machine learning
+gaussian model,"covariance matrix, gaussian density, model parameters, matrix, probabilistic model, probability density, symmetric matrix",machine learning
+covariance matrix,"identity matrics, matrix, probability density, random variable, square matrix, standard deviation, symmetric matrix",machine learning
+multivariate gaussian distribution,"covariance matrix, gaussian density, identity matrics, probability density",machine learning
+multivariate gaussian model,"covariance matrix, gaussian density, gaussian model, multivariate gaussian distribution, matrix, parameter estimation, probability density, symmetric matrix",machine learning
+principle components,"covariance matrix, dimensionality reduction, feature vector, linear algebra, square projection error",machine learning
+cross validation sets,"cross validation, data set, labeled data, machine learning, supervised learning, test data, test data set, training data, training data set, validation set",machine learning
+model complexity,"cross validation, cross validation error, estimated parameters, feature selection, generalization error, learning method, model parameters",machine learning
+input data,"data set, machine learning",machine learning
+input space,"data set, learning method, learning problem, machine learning, training data, training data set",machine learning
+labeled data,data set,machine learning
+learning method,"data set, input data, learning problem, learning system",machine learning
+learning system,"data set, input data, learning problem, machine learning, machine learning application",machine learning
+machine learning,"data set, learning problem",machine learning
+machine learning algorithm,"data set, input data, learning method, learning problem, machine learning, optimization algorithms, optimization problem",machine learning
+machine learning system,"data set, input data, learning problem, learning system, machine learning",machine learning
+massive training set,"data set, learning problem, supervised learning, training data, training data set",machine learning
+negative example,"data set, labeled data, predicted class",machine learning
+non-anomalous examples,"data set, labeled data, training data",machine learning
+positive data,"data set, labeled data",machine learning
+positive training example,"data set, labeled data, positive data, training data, training data set",machine learning
+test data set,"data set, input data, learning problem, machine learning, test data",machine learning
+training data set,"data set, input data, labeled data, learning problem, machine learning, training data",machine learning
+support vector,"decision boundaries, feature space, feature vector, positive data",machine learning
+gradient checking,"derivative term, gradient descent, learning method, local minimum, local optima, optimization algorithms",machine learning
+optimization algorithms,"derivative term, global optimum, linear algebra, local minimum, local optima, matrix, optimization problem, parameter vector, partial derivative",machine learning
+partial derivative,"derivative term, linear algebra, local minimum, local optima, matrix",machine learning
+early stopping,"machine learning, regularization, training error, validation error, overfitting",machine learning
+estimated parameters,"loss function, model parameters",machine learning
+regression coefficients,"estimated parameters, feature vector, model parameters, regression model",machine learning
+precision,"evaluation metrics, negative example, positive class, positive data, positive predictions, predicted class, predicted value, test data, test data set",machine learning
+recall,"evaluation metrics, labeled data, negative example, positive class, positive data, positive predictions, predicted class, predicted value, test data, test data set",machine learning
+evaluation metrics,"test data, test data set",machine learning
+expectation maximization,"iterative algorithm, learning method, loss function, matrix factorization, matrix, unsupervised learning",machine learning
+nonlinear hypotheses,"feature space, feature vector, hypothesis",machine learning
+svm optimization,"feature space, feature vector, global minimum, inner product, learning method, learning problem, local optima, machine learning, machine learning system, matrix, optimization problem, parameter vector, positive class, support vector, support vector machine",machine learning
+gaussian kernel,"feature vector, kernel function, machine learning, support vector, support vector machine",machine learning
+hidden layer,"feature vector, hidden unit, input layer, input units, machine learning, neural network, sigmoid function",machine learning
+input layer,"feature vector, input units, neural network, training data, training data set",machine learning
+kernel function,"feature vector, inner product, linear kernel, machine learning, support vector machine",machine learning
+linear kernel,"feature vector, linear classifier, support vector, support vector machine",machine learning
+output layer,"feature vector, neural network, output unit, parameter vector",machine learning
+parameter estimation,"feature vector, linear algebra, matrix",machine learning
+polynomial kernel,"feature vector, inner product, kernel function, support vector, support vector machine, svm packages",machine learning
+square projection error,"feature vector, linear algebra, matrix, square distances, square matrix",machine learning
+kernel regression,"gaussian kernel, input space, learning method, linear regression, machine learning, machine learning algorithm, optimization algorithms, optimization problem, regression model, training data set",machine learning
+gaussian random variable,"random numbers, random variable",machine learning
+generalization error,"hypothesis, loss function, machine learning, parameter vector, prediction error, test data, test data set, test error, training data, training data set, training error",machine learning
+global minimum,global optimum,machine learning
+optimization objective,"global minimum, local optima, optimization problem, parameter vector, partial derivative",machine learning
+optimization problem,"global minimum, inner product, partial derivative",machine learning
+hidden unit,"input units, logistic function, neural network, parameter vector",machine learning
+high order polynomial,polynomial terms,machine learning
+hypothesis,"learning problem, machine learning, machine learning algorithm",machine learning
+identity matrics,"linear algebra, matrix",machine learning
+matrix multiplication,"identity matrics, linear algebra, matrix vector multiplication, matrix, vector multiplication",machine learning
+matrix transpose,"identity matrics, linear algebra, matrix, square matrix",machine learning
+mean square error,"identity matrics, least squares",machine learning
+least squares,"inner product, matrix",machine learning
+inner product,"linear algebra, vector multiplication",machine learning
+normalized representation,inner product,machine learning
+squared error,"inner product, least squares, polynomial terms",machine learning
+test data,"input data, learning problem, machine learning",machine learning
+training data,"input data, labeled data, learning problem, machine learning",machine learning
+input units,"neural network, training data, training data set",machine learning
+k nearest neighbors,"nearest neighbor search, nearest neighbors",machine learning
+string kernel,"kernel function, support vector, support vector machine",machine learning
+l1 penalty,"partial derivative, regularization",machine learning
+model parameters,learning method,machine learning
+nearest neighbor search,"learning method, learning problem, machine learning, machine learning algorithm, nearest neighbors, unsupervised learning",machine learning
+machine learning application,"learning problem, machine learning, machine learning system",machine learning
+svm packages,"learning system, machine learning, machine learning system, matrix, parameter vector, support vector, support vector machine",machine learning
+standard least squares,"least squares, squared error",machine learning
+log likelihood,likelihood function,machine learning
+matrix factorization,"linear algebra, matrix",machine learning
+matrix vector multiplication,"linear algebra, matrix, vector multiplication",machine learning
+square matrix,"linear algebra, matrix",machine learning
+symmetric matrix,"linear algebra, matrix",machine learning
+vector multiplication,linear algebra,machine learning
+local minimum,local optima,machine learning
+loss function,"local minimum, local optima, machine learning, machine learning algorithm, model parameters, optimization objective, optimization problem, parameter vector",machine learning
+logistic function,loss function,machine learning
+low rank matrix,matrix,machine learning
+matrix addition,matrix,machine learning
+minimization problem,"optimal solution, optimization problem",machine learning
+tuning parameter,"model parameters, optimization objective",machine learning
+output unit,"neural network, parameter vector",machine learning
+standard deviation,"matrix, random numbers, random variable",machine learning
+optimal solution,"optimization algorithms, optimization objective, optimization problem, parameter vector",machine learning
+positive class,positive data,machine learning
+predicted class,test data set,machine learning
+predicted value,"test data, test data set",machine learning
+prediction error,"test data, test data set",machine learning
+prior probability,random variable,machine learning
+probability density,random variable,machine learning
+random variable,random numbers,machine learning
+square distances,square matrix,machine learning

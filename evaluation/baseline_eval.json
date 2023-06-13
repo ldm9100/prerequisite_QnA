@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Q: What should I study first to understand linear inequality?",
+        "answer": "To understand linear inequality, you should first study basic algebra, including linear equations, inequalities, and systems of equations. Additionally, you should have a basic understanding of linear functions and graphs."
+    },
+    {
+        "question": "Q: What should I study first to understand traveling salesman problem?",
+        "answer": "To understand the traveling salesman problem, you should first have a basic understanding of algorithms, data structures, and graph theory. Additionally, it is helpful to have a basic understanding of optimization techniques such as dynamic programming and heuristics."
+    },
+    {
+        "question": "Q: What should I study first to understand true negatives?",
+        "answer": "To understand true negatives, it is important to first understand basic concepts in probability and statistics, such as conditional probability, Bayes' theorem, and the concept of false positives and false negatives. Additionally, it is important to understand the basics of machine learning, such as supervised and unsupervised learning, and the different types of algorithms used in machine learning."
+    },
+    {
+        "question": "Q: What should I study first to understand minimum dist?",
+        "answer": "To understand minimum distance, you should first understand basic concepts of data structures and algorithms, such as sorting algorithms, graph algorithms, and dynamic programming. Additionally, you should have a basic understanding of linear algebra and probability theory."
+    },
+    {
+        "question": "Q: What should I study first to understand balanced search?",
+        "answer": "To understand balanced search, it is important to have a good understanding of basic data structures such as linked lists, stacks, queues, and trees. Additionally, knowledge of sorting algorithms such as quicksort and heapsort is also beneficial. Finally, understanding of basic algorithms such as binary search and depth-first search is also important."
+    },
+    {
+        "question": "Q: What should I study first to understand mst verification?",
+        "answer": "To understand mst verification, it is important to have a good understanding of data structures and algorithms, as well as basic concepts of machine learning. It is also helpful to have a basic understanding of graph theory."
+    },
+    {
+        "question": "Q: What should I study first to understand square distances?",
+        "answer": "To understand square distances, you should first study linear algebra, which covers topics such as vectors, matrices, and linear equations. Additionally, you should also study calculus, which covers topics such as derivatives and integrals."
+    },
+    {
+        "question": "Q: What should I study first to understand recommender system?",
+        "answer": "To understand recommender systems, it is important to have a good understanding of data structures and algorithms, as well as machine learning concepts such as supervised and unsupervised learning, clustering, and classification. Additionally, knowledge of linear algebra and probability theory can be helpful."
+    },
+    {
+        "question": "Q: What should I study first to understand eulerian cycle?",
+        "answer": "To understand Eulerian cycle, you should first understand graph theory and basic algorithms such as depth-first search and breadth-first search. Additionally, it is helpful to have a basic understanding of data structures such as linked lists and stacks."
+    },
+    {
+        "question": "Q: What should I study first to understand generalized linear models?",
+        "answer": "To understand generalized linear models, it is important to have a good understanding of linear algebra, calculus, probability, and statistics. Additionally, knowledge of machine learning algorithms and techniques is also beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand big omega?",
+        "answer": "To understand big omega, you should first understand the basics of algorithms and data structures, including time complexity, asymptotic notation, and the fundamentals of sorting and searching algorithms. Additionally, it is helpful to have a basic understanding of calculus and discrete mathematics."
+    },
+    {
+        "question": "Q: What should I study first to understand normalized representation?",
+        "answer": "To understand normalized representation, it is important to first understand basic concepts of data structures and algorithms, as well as linear algebra and calculus. Additionally, it is helpful to have a basic understanding of machine learning concepts such as supervised and unsupervised learning."
+    },
+    {
+        "question": "Q: What should I study first to understand regularized logistic regression?",
+        "answer": "To understand regularized logistic regression, you should first have a good understanding of basic linear algebra, calculus, probability, and statistics. Additionally, it is helpful to have a basic understanding of machine learning concepts such as supervised learning, optimization, and regularization."
+    },
+    {
+        "question": "Q: What should I study first to understand gradient checking?",
+        "answer": "To understand gradient checking, you should first have a good understanding of calculus, linear algebra, and optimization techniques. Additionally, it is helpful to have a basic understanding of machine learning and neural networks."
+    },
+    {
+        "question": "Q: What should I study first to understand red black tree?",
+        "answer": "To understand red black tree, it is important to have a good understanding of basic data structures such as linked lists, stacks, and queues. Additionally, knowledge of basic algorithms such as sorting and searching algorithms is also important. Finally, a basic understanding of tree data structures is essential for understanding red black trees."
+    },
+    {
+        "question": "Q: What should I study first to understand polynomial algorithm?",
+        "answer": "To understand polynomial algorithms, it is important to have a good understanding of basic data structures and algorithms, as well as linear algebra and calculus. Additionally, having a basic understanding of probability and statistics can be helpful."
+    },
+    {
+        "question": "Q: What should I study first to understand agglomerative clustering?",
+        "answer": "To understand agglomerative clustering, it is important to have a good understanding of basic data structures and algorithms, as well as some knowledge of machine learning concepts such as distance metrics and clustering algorithms. Additionally, it is helpful to have a basic understanding of probability and statistics."
+    },
+    {
+        "question": "Q: What should I study first to understand principle components?",
+        "answer": "To understand principle components, it is recommended to first have a good understanding of linear algebra, calculus, and probability theory. Additionally, having a basic understanding of machine learning algorithms and data structures can be helpful."
+    },
+    {
+        "question": "Q: What should I study first to understand neural network?",
+        "answer": "To understand neural networks, it is important to have a good understanding of linear algebra, calculus, probability, and statistics. Additionally, having a basic understanding of computer science concepts such as algorithms and data structures is also beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand shortest path algorithm?",
+        "answer": "To understand shortest path algorithms, you should first have a good understanding of basic data structures such as stacks, queues, and graphs. Additionally, you should have a basic understanding of algorithms such as breadth-first search and depth-first search."
+    },
+    {
+        "question": "Q: What should I study first to understand edmonds-karp algorithm?",
+        "answer": "To understand the Edmonds-Karp algorithm, you should first have a good understanding of graph theory, including graph traversal algorithms such as breadth-first search and depth-first search. Additionally, you should have a good understanding of the maximum flow problem and the Ford-Fulkerson algorithm."
+    },
+    {
+        "question": "Q: What should I study first to understand online learning?",
+        "answer": "To understand online learning, it is important to have a basic understanding of data structures and algorithms, as well as machine learning concepts. It is also helpful to have a basic understanding of computer programming and web development."
+    },
+    {
+        "question": "Q: What should I study first to understand connected component?",
+        "answer": "To understand connected components, you should first have a basic understanding of graph theory, including graph traversal algorithms such as depth-first search and breadth-first search. Additionally, you should have a basic understanding of data structures such as linked lists, stacks, and queues."
+    },
+    {
+        "question": "Q: What should I study first to understand model selection?",
+        "answer": "To understand model selection, it is important to have a good understanding of the fundamentals of data structures and algorithms, as well as machine learning concepts such as supervised and unsupervised learning, feature engineering, and hyperparameter tuning. Additionally, knowledge of linear algebra and calculus is also beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand binary classification?",
+        "answer": "To understand binary classification, it is important to have a basic understanding of data structures and algorithms, as well as machine learning concepts such as supervised learning, decision trees, and logistic regression. Additionally, it is helpful to have a basic understanding of probability and statistics."
+    },
+    {
+        "question": "Q: What should I study first to understand precision recall curve?",
+        "answer": "To understand precision recall curve, you should first understand the concepts of precision and recall. You should also have a basic understanding of machine learning algorithms and how they are used to make predictions. Additionally, you should have a basic understanding of the metrics used to evaluate the performance of machine learning models."
+    },
+    {
+        "question": "Q: What should I study first to understand randomized quick sort?",
+        "answer": "To understand randomized quick sort, you should first have a good understanding of basic sorting algorithms, such as bubble sort, insertion sort, and selection sort. Additionally, you should have a basic understanding of data structures, such as linked lists, stacks, and queues. Finally, you should have a basic understanding of probability and randomization."
+    },
+    {
+        "question": "Q: What should I study first to understand evaluation metrics?",
+        "answer": "To understand evaluation metrics, it is important to first have a good understanding of basic data structures and algorithms, as well as machine learning concepts. Additionally, it is important to have a good understanding of the problem domain in order to properly interpret the results of the evaluation metrics."
+    },
+    {
+        "question": "Q: What should I study first to understand connected graph?",
+        "answer": "To understand connected graphs, it is important to first understand basic graph theory, including graph representations, traversal algorithms, and graph search algorithms. Additionally, knowledge of data structures such as linked lists and trees is essential for understanding connected graphs."
+    },
+    {
+        "question": "Q: What should I study first to understand search tree?",
+        "answer": "To understand search trees, it is important to have a good understanding of basic data structures such as linked lists, stacks, and queues. Additionally, it is important to understand the concepts of recursion and tree traversal algorithms."
+    },
+    {
+        "question": "Q: What should I study first to understand o notation?",
+        "answer": "To understand o notation, it is important to have a good understanding of basic data structures and algorithms. It is also helpful to have a basic understanding of mathematics, particularly calculus and discrete mathematics. Additionally, having a good understanding of computer science fundamentals such as memory management and time complexity can be beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand asymptotic analysis?",
+        "answer": "To understand asymptotic analysis, it is important to have a good understanding of basic mathematics, including calculus, linear algebra, and probability theory. Additionally, it is helpful to have a basic understanding of algorithms and data structures."
+    },
+    {
+        "question": "Q: What should I study first to understand binary search tree?",
+        "answer": "To understand binary search trees, it is important to have a good understanding of basic data structures such as linked lists, stacks, and queues. Additionally, it is important to understand the principles of recursion and basic sorting algorithms such as insertion sort and merge sort."
+    },
+    {
+        "question": "Q: What should I study first to understand residual graph?",
+        "answer": "To understand residual graph, it is important to first understand the concepts of graph theory, data structures, and algorithms. Additionally, knowledge of network flow algorithms and linear programming can be beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand maximum likelihood estimate?",
+        "answer": "To understand maximum likelihood estimate, you should first have a basic understanding of probability theory, calculus, and linear algebra. Additionally, it is helpful to have some knowledge of optimization techniques and numerical methods."
+    },
+    {
+        "question": "Q: What should I study first to understand probabilistic model?",
+        "answer": "To understand probabilistic models, it is important to have a good understanding of basic probability theory, linear algebra, and calculus. Additionally, knowledge of statistics and machine learning algorithms can be beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand mst algorithm?",
+        "answer": "To understand the MST algorithm, you should first have a good understanding of basic data structures such as linked lists, stacks, queues, and trees. Additionally, you should have a good understanding of basic algorithms such as sorting, searching, and graph traversal. Finally, you should have a basic understanding of graph theory, including concepts such as edges, vertices, and weights."
+    },
+    {
+        "question": "Q: What should I study first to understand latent dirichlet allocation?",
+        "answer": "To understand latent dirichlet allocation, it is important to have a good understanding of probability theory, linear algebra, and machine learning algorithms. Additionally, it is helpful to have a basic understanding of natural language processing and text mining."
+    },
+    {
+        "question": "Q: What should I study first to understand union find?",
+        "answer": "To understand union find, it is important to have a good understanding of basic data structures such as linked lists, stacks, and queues. Additionally, it is important to understand basic algorithms such as sorting, searching, and graph traversal. Finally, it is important to understand basic concepts of set theory, such as union, intersection, and difference."
+    },
+    {
+        "question": "Q: What should I study first to understand binary heap?",
+        "answer": "To understand binary heap, it is important to have a good understanding of basic data structures such as linked lists, stacks, and queues. Additionally, knowledge of basic sorting algorithms such as insertion sort, selection sort, and merge sort is also helpful."
+    },
+    {
+        "question": "Q: What should I study first to understand linear function?",
+        "answer": "To understand linear functions, you should first study basic algebra, including linear equations, linear inequalities, and linear functions. Additionally, you should also have a basic understanding of calculus, as linear functions are often used in calculus."
+    },
+    {
+        "question": "Q: What should I study first to understand np-complete problem?",
+        "answer": "To understand np-complete problems, it is important to have a good understanding of the fundamentals of data structures and algorithms, as well as some knowledge of complexity theory. Additionally, having a basic understanding of machine learning algorithms can be helpful in understanding the implications of np-complete problems."
+    },
+    {
+        "question": "Q: What should I study first to understand search algorithm?",
+        "answer": "To understand search algorithms, it is important to have a good understanding of data structures and algorithms. It is also helpful to have a basic understanding of computer science concepts such as time complexity, space complexity, and recursion. Additionally, having a basic understanding of machine learning concepts such as supervised and unsupervised learning can be beneficial."
+    },
+    {
+        "question": "Q: What should I study first to understand greedy algorithm?",
+        "answer": "To understand greedy algorithms, you should first have a good understanding of basic data structures such as arrays, linked lists, stacks, and queues. Additionally, you should have a good understanding of basic algorithms such as sorting, searching, and recursion. Finally, you should have a good understanding of basic concepts of mathematics such as set theory, probability, and graph theory."
+    },
+    {
+        "question": "Q: What should I study first to understand merge sort?",
+        "answer": "To understand merge sort, you should first have a basic understanding of algorithms and data structures. You should also have a good grasp of the fundamentals of computer science, such as time complexity, recursion, and sorting algorithms. Additionally, it is helpful to have a basic understanding of mathematics, such as basic algebra and calculus."
+    },
+    {
+        "question": "Q: What should I study first to understand suffix trie?",
+        "answer": "To understand suffix trie, you should first have a good understanding of basic data structures such as linked lists, trees, and hash tables. Additionally, you should have a good understanding of algorithms such as searching, sorting, and string manipulation. Finally, you should have a basic understanding of the principles of dynamic programming."
+    },
+    {
+        "question": "Q: What should I study first to understand suffix tree?",
+        "answer": "To understand suffix tree, it is important to have a good understanding of basic data structures such as linked lists, trees, and graphs. Additionally, knowledge of string algorithms such as suffix array and suffix tree construction algorithms is also necessary."
+    },
+    {
+        "question": "Q: What should I study first to understand spanning tree algorithm?",
+        "answer": "To understand spanning tree algorithm, you should first have a basic understanding of graph theory, including concepts such as vertices, edges, and weights. Additionally, you should have a basic understanding of algorithms and data structures, such as depth-first search and breadth-first search."
+    },
+    {
+        "question": "Q: What should I study first to understand nonlinear hypotheses?",
+        "answer": "To understand nonlinear hypotheses, it is important to first understand linear algebra, calculus, and probability theory. Additionally, it is important to have a basic understanding of machine learning algorithms and techniques."
+    },
+    {
+        "question": "Q: What should I study first to understand positive training example?",
+        "answer": "To understand positive training examples, it is important to first understand the basics of data structures and algorithms, as well as machine learning concepts such as supervised learning, unsupervised learning, and reinforcement learning. Additionally, it is important to have a good understanding of the mathematics behind machine learning, such as linear algebra, calculus, and probability theory."
+    }
+]

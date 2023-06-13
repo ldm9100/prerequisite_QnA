@@ -1,0 +1,149 @@
+[context:linear inequality]
+Q: What should I study first to understand linear inequality?
+
+[context:traveling salesman problem]
+Q: What should I study first to understand traveling salesman problem?
+
+[context:true negatives]
+Q: What should I study first to understand true negatives?
+
+[context:minimum dist]
+Q: What should I study first to understand minimum dist?
+
+[context:balanced search]
+Q: What should I study first to understand balanced search?
+
+[context:mst verification]
+Q: What should I study first to understand mst verification?
+
+[context:square distances]
+Q: What should I study first to understand square distances?
+
+[context:recommender system]
+Q: What should I study first to understand recommender system?
+
+[context:eulerian cycle]
+Q: What should I study first to understand eulerian cycle?
+
+[context:generalized linear models]
+Q: What should I study first to understand generalized linear models?
+
+[context:big omega]
+Q: What should I study first to understand big omega?
+
+[context:normalized representation]
+Q: What should I study first to understand normalized representation?
+
+[context:regularized logistic regression]
+Q: What should I study first to understand regularized logistic regression?
+
+[context:gradient checking]
+Q: What should I study first to understand gradient checking?
+
+[context:red black tree]
+Q: What should I study first to understand red black tree?
+
+[context:polynomial algorithm]
+Q: What should I study first to understand polynomial algorithm?
+
+[context:agglomerative clustering]
+Q: What should I study first to understand agglomerative clustering?
+
+[context:principle components]
+Q: What should I study first to understand principle components?
+
+[context:neural network]
+Q: What should I study first to understand neural network?
+
+[context:shortest path algorithm]
+Q: What should I study first to understand shortest path algorithm?
+
+[context:edmonds-karp algorithm]
+Q: What should I study first to understand edmonds-karp algorithm?
+
+[context:online learning]
+Q: What should I study first to understand online learning?
+
+[context:connected component]
+Q: What should I study first to understand connected component?
+
+[context:model selection]
+Q: What should I study first to understand model selection?
+
+[context:binary classification]
+Q: What should I study first to understand binary classification?
+
+[context:precision recall curve]
+Q: What should I study first to understand precision recall curve?
+
+[context:randomized quick sort]
+Q: What should I study first to understand randomized quick sort?
+
+[context:evaluation metrics]
+Q: What should I study first to understand evaluation metrics?
+
+[context:connected graph]
+Q: What should I study first to understand connected graph?
+
+[context:search tree]
+Q: What should I study first to understand search tree?
+
+[context:o notation]
+Q: What should I study first to understand o notation?
+
+[context:asymptotic analysis]
+Q: What should I study first to understand asymptotic analysis?
+
+[context:binary search tree]
+Q: What should I study first to understand binary search tree?
+
+[context:residual graph]
+Q: What should I study first to understand residual graph?
+
+[context:maximum likelihood estimate]
+Q: What should I study first to understand maximum likelihood estimate?
+
+[context:probabilistic model]
+Q: What should I study first to understand probabilistic model?
+
+[context:mst algorithm]
+Q: What should I study first to understand mst algorithm?
+
+[context:latent dirichlet allocation]
+Q: What should I study first to understand latent dirichlet allocation?
+
+[context:union find]
+Q: What should I study first to understand union find?
+
+[context:binary heap]
+Q: What should I study first to understand binary heap?
+
+[context:linear function]
+Q: What should I study first to understand linear function?
+
+[context:np-complete problem]
+Q: What should I study first to understand np-complete problem?
+
+[context:search algorithm]
+Q: What should I study first to understand search algorithm?
+
+[context:greedy algorithm]
+Q: What should I study first to understand greedy algorithm?
+
+[context:merge sort]
+Q: What should I study first to understand merge sort?
+
+[context:suffix trie]
+Q: What should I study first to understand suffix trie?
+
+[context:suffix tree]
+Q: What should I study first to understand suffix tree?
+
+[context:spanning tree algorithm]
+Q: What should I study first to understand spanning tree algorithm?
+
+[context:nonlinear hypotheses]
+Q: What should I study first to understand nonlinear hypotheses?
+
+[context:positive training example]
+Q: What should I study first to understand positive training example?

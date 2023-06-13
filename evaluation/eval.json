@@ -1,0 +1,202 @@
+[
+    {
+        "question": "[context:linear inequality] Q: What should I study first to understand linear inequality?",
+        "answer": "Start your educational journey with linear function, it will pave the way to understanding linear inequality."
+    },
+    {
+        "question": "[context:traveling salesman problem] Q: What should I study first to understand traveling salesman problem?",
+        "answer": "To grasp the traveling salesman problem, it's imperative you first delve into search problem, traveling salesman."
+    },
+    {
+        "question": "[context:true negatives] Q: What should I study first to understand true negatives?",
+        "answer": "To get a clear understanding of true negatives, begin by studying classification accuracy, positive class."
+    },
+    {
+        "question": "[context:minimum dist] Q: What should I study first to understand minimum dist?",
+        "answer": "To unravel the complexities of minimum dist, immerse yourself in minimum cut problem, connected component first."
+    },
+    {
+        "question": "[context:balanced search] Q: What should I study first to understand balanced search?",
+        "answer": "To get a clear understanding of balanced search, begin by studying search tree."
+    },
+    {
+        "question": "[context:mst verification] Q: What should I study first to understand mst verification?",
+        "answer": "Your first academic step to comprehending mst verification should be studying spanning tree, spanning tree problem, mst algorithm."
+    },
+    {
+        "question": "[context:square distances] Q: What should I study first to understand square distances?",
+        "answer": "The key to unlocking square distances is to start with studying square matrix."
+    },
+    {
+        "question": "[context:recommender system] Q: What should I study first to understand recommender system?",
+        "answer": "Â Begin with studying machine learning, data set, it's foundational for understanding recommender system."
+    },
+    {
+        "question": "[context:eulerian cycle] Q: What should I study first to understand eulerian cycle?",
+        "answer": "To get a clear understanding of eulerian cycle, begin by studying directed graph, undirected graph."
+    },
+    {
+        "question": "[context:generalized linear models] Q: What should I study first to understand generalized linear models?",
+        "answer": "To get a clear understanding of generalized linear models, begin by studying linear model, feature vector, machine learning."
+    },
+    {
+        "question": "[context:big omega] Q: What should I study first to understand big omega?",
+        "answer": "ive got a few studying tips for big omega."
+    },
+    {
+        "question": "[context:normalized representation] Q: What should I study first to understand normalized representation?",
+        "answer": "The primary requirement for understanding normalized representation is an understanding of feature vector, dimensionality reduction."
+    },
+    {
+        "question": "[context:regularized logistic regression] Q: What should I study first to understand regularized logistic regression?",
+        "answer": "To get a clear understanding of regularized logistic regression, begin by studying machine learning, training data set."
+    },
+    {
+        "question": "[context:gradient checking] Q: What should I study first to understand gradient checking?",
+        "answer": "To unravel the complexities of gradient checking, immerse yourself in local optima, optimal solution first."
+    },
+    {
+        "question": "[context:red black tree] Q: What should I study first to understand red black tree?",
+        "answer": "The primary requirement for understanding red black tree is an understanding of balanced binary search, balanced search."
+    },
+    {
+        "question": "[context:polynomial algorithm] Q: What should I study first to understand polynomial algorithm?",
+        "answer": "To get a clear understanding of polynomial algorithm, begin by studying polynomial time, polynomial time algorithm."
+    },
+    {
+        "question": "[context:agglomerative clustering] Q: What should I study first to understand agglomerative clustering?",
+        "answer": "To get a clear understanding of agglomerative clustering, begin by studying cluster, clustering algorithm."
+    },
+    {
+        "question": "[context:principle components] Q: What should I study first to understand principle components?",
+        "answer": "To get to the heart of principle components, your studies should commence with linear algebra, matrix."
+    },
+    {
+        "question": "[context:neural network] Q: What should I study first to understand neural network?",
+        "answer": "The key to unlocking neural network is to start with studying logistic regression, classification problem, linear classifier."
+    },
+    {
+        "question": "[context:shortest path algorithm] Q: What should I study first to understand shortest path algorithm?",
+        "answer": "Your comprehension of shortest path algorithm will significantly benefit from an initial study of undirected graph, shortest path."
+    },
+    {
+        "question": "[context:edmonds-karp algorithm] Q: What should I study first to understand edmonds-karp algorithm?",
+        "answer": "The best starting point for learning about edmonds-karp algorithm is studying breadth first search, depth first search."
+    },
+    {
+        "question": "[context:online learning] Q: What should I study first to understand online learning?",
+        "answer": "Your first academic step to comprehending online learning should be studying learning method, training data."
+    },
+    {
+        "question": "[context:connected component] Q: What should I study first to understand connected component?",
+        "answer": "The key to unlocking connected component is to start with studying directed graph, directed edge."
+    },
+    {
+        "question": "[context:model selection] Q: What should I study first to understand model selection?",
+        "answer": "The best starting point for learning about model selection is studying overfitting, model parameters, cross validation error."
+    },
+    {
+        "question": "[context:binary classification] Q: What should I study first to understand binary classification?",
+        "answer": "The best starting point for learning about binary classification is studying positive data, classification problem."
+    },
+    {
+        "question": "[context:precision recall curve] Q: What should I study first to understand precision recall curve?",
+        "answer": "The key to unlocking precision recall curve is to start with studying recall, positive data."
+    },
+    {
+        "question": "[context:randomized quick sort] Q: What should I study first to understand randomized quick sort?",
+        "answer": "To unravel the complexities of randomized quick sort, immerse yourself in quick sort, sort algorithm first."
+    },
+    {
+        "question": "[context:evaluation metrics] Q: What should I study first to understand evaluation metrics?",
+        "answer": "Â The key to unlocking evaluation metrics is to start with studying test data set, test data."
+    },
+    {
+        "question": "[context:connected graph] Q: What should I study first to understand connected graph?",
+        "answer": "graph is the initial pillar of knowledge you should study to comprehend connected graph."
+    },
+    {
+        "question": "[context:search tree] Q: What should I study first to understand search tree?",
+        "answer": "The primary requirement for understanding search tree is an understanding of search problem, search tree problem."
+    },
+    {
+        "question": "[context:o notation] Q: What should I study first to understand o notation?",
+        "answer": "The best starting point for learning about o notation is studying big o notation, asn."
+    },
+    {
+        "question": "[context:asymptotic analysis] Q: What should I study first to understand asymptotic analysis?",
+        "answer": "The key to unlocking asymptotic analysis is to start with studying big-o notation, asymptotic notation."
+    },
+    {
+        "question": "[context:binary search tree] Q: What should I study first to understand binary search tree?",
+        "answer": "Start your educational journey with search tree, binary code, it will pave the way to understanding binary search tree."
+    },
+    {
+        "question": "[context:residual graph] Q: What should I study first to understand residual graph?",
+        "answer": "The key to unlocking residual graph is to start with studying undirected graph, residual edge."
+    },
+    {
+        "question": "[context:maximum likelihood estimate] Q: What should I study first to understand maximum likelihood estimate?",
+        "answer": "Start your educational journey with likelihood function, it will pave the way to understanding maximum likelihood estimate."
+    },
+    {
+        "question": "[context:probabilistic model] Q: What should I study first to understand probabilistic model?",
+        "answer": "The key to unlocking probabilistic model is to start with studying random variable, conditional distribution."
+    },
+    {
+        "question": "[context:mst algorithm] Q: What should I study first to understand mst algorithm?",
+        "answer": "Your comprehension of mst algorithm will significantly benefit from an initial study of spanning tree, spanning tree problem, mst algorithm."
+    },
+    {
+        "question": "[context:latent dirichlet allocation] Q: What should I study first to understand latent dirichlet allocation?",
+        "answer": "To get a clear understanding of latent dirichlet allocation, begin by studying machine learning, learning method."
+    },
+    {
+        "question": "[context:union find] Q: What should I study first to understand union find?",
+        "answer": "The best starting point for learning about union find is studying search algorithm, union approach."
+    },
+    {
+        "question": "[context:binary heap] Q: What should I study first to understand binary heap?",
+        "answer": "To get a clear understanding of binary heap, begin by studying binary tree, linked list."
+    },
+    {
+        "question": "[context:linear function] Q: What should I study first to understand linear function?",
+        "answer": "Begin your academic venture into linear function by focusing on linear programming problems, programming problems."
+    },
+    {
+        "question": "[context:np-complete problem] Q: What should I study first to understand np-complete problem?",
+        "answer": "Your first academic step to comprehending np-complete problem should be studying traveling salesman problem."
+    },
+    {
+        "question": "[context:search algorithm] Q: What should I study first to understand search algorithm?",
+        "answer": "Your first academic step to comprehending search algorithm should be studying search problem."
+    },
+    {
+        "question": "[context:greedy algorithm] Q: What should I study first to understand greedy algorithm?",
+        "answer": "To get a clear understanding of greedy algorithm, begin by studying greedy algorithm."
+    },
+    {
+        "question": "[context:merge sort] Q: What should I study first to understand merge sort?",
+        "answer": "The key to unlocking merge sort is to start with studying comparison based algorithm, sort algorithm."
+    },
+    {
+        "question": "[context:suffix trie] Q: What should I study first to understand suffix trie?",
+        "answer": "Your first academic step to comprehending suffix trie should be studying pattern matching, pattern matching algorithm."
+    },
+    {
+        "question": "[context:suffix tree] Q: What should I study first to understand suffix tree?",
+        "answer": "To get a clear understanding of suffix tree, begin by studying search tree, suffix algorithm."
+    },
+    {
+        "question": "[context:spanning tree algorithm] Q: What should I study first to understand spanning tree algorithm?",
+        "answer": "The best starting point for learning about spanning tree algorithm is studying spanning tree problem, spanning tree."
+    },
+    {
+        "question": "[context:nonlinear hypotheses] Q: What should I study first to understand nonlinear hypotheses?",
+        "answer": "The key to unlocking nonlinear hypotheses is to start with studying hypothesis, learning problem."
+    },
+    {
+        "question": "[context:positive training example] Q: What should I study first to understand positive training example?",
+        "answer": "The primary requirement for understanding positive training example is an understanding of training data, labeled data, data set."
+    }
+]

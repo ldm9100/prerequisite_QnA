@@ -1,0 +1,146 @@
+concept,prerequisites,context
+2d tree,"binary tree, linked list, range search, search problem",data structure and algorithm
+a star,"breadth first search, brute force approach, depth first search, quadratic time algorithm, search algorithm, shortest path, shortest path algorithm",data structure and algorithm
+inverse ackermann function,"ackermann function, compression optimization, connected component, mst algorithm, mst problem",data structure and algorithm
+ackermann function,"mst algorithm, mst problem",data structure and algorithm
+adjacency lists,"acyclic graph, graph algorithms, undirected graph",data structure and algorithm
+breadth first search,"acyclic graph, big-o notation, directed acyclic graph, directed edge, directed graph, edge weight, generic graph search, graph algorithms, graph search, search algorithm, undirected graph",data structure and algorithm
+connected component,"acyclic graph, connected graph, directed acyclic graph, directed edge, directed graph",data structure and algorithm
+connected graph,"acyclic graph, edge weight, undirected graph",data structure and algorithm
+depth first search,"acyclic graph, big-o notation, directed acyclic graph, directed edge, directed graph, edge weight, generic graph search, graph algorithms, graph search, search algorithm, undirected graph",data structure and algorithm
+directed acyclic graph,"acyclic graph, directed edge, directed graph",data structure and algorithm
+graph algorithms,"acyclic graph, directed acyclic graph, directed graph, graph search, mst problem, shortest path problem, spanning tree problem",data structure and algorithm
+graph search,"acyclic graph, search algorithm, undirected graph",data structure and algorithm
+adjacency matrix,"adjacency lists, graph algorithms, undirected graph",data structure and algorithm
+approximate pattern matching,"exact pattern matching, pattern matching, string algorithms",data structure and algorithm
+approximation algorithm,"search problem, traveling salesman problem",data structure and algorithm
+big-o notation,"asymptotic analysis, asymptotic notation",data structure and algorithm
+asymptotic analysis,"linear time algorithm, quadratic time algorithm",data structure and algorithm
+o notation,"asymptotic analysis, asymptotic notation",data structure and algorithm
+big omega,"asymptotic notation, o notation",data structure and algorithm
+asymptotic notation,brute force approach,data structure and algorithm
+theta notation,asymptotic notation,data structure and algorithm
+avl trees,"balanced binary search, balanced search, balanced search tree, binary search, binary search tree, binary tree, linked list, search problem, search tree",data structure and algorithm
+red black tree,"avl trees, balance trees, balanced binary search, balanced search, balanced search tree, binary tree, linked list",data structure and algorithm
+splay trees,"avl trees, balanced binary search, balanced search, balanced search tree, binary tree, linked list",data structure and algorithm
+bidirectional search,"backwards search, directed graph, directional search, shortest path, shortest path algorithm",data structure and algorithm
+balance trees,binary search tree,data structure and algorithm
+balanced binary search,"balanced search, balanced search tree, binary search, binary search tree, binary tree, linked list, search tree, search tree problem, sort algorithm",data structure and algorithm
+balanced search tree,"balanced search, binary search tree, binary tree, linked list, search tree, search tree problem",data structure and algorithm
+balanced search,search tree problem,data structure and algorithm
+bellman-ford algorithm,"breadth first search, directed edge, directed graph, edge weight, graph search, search algorithm, shortest path, shortest path algorithm, undirected graph",data structure and algorithm
+bidirectional dijkstra algorithm,"bidirectional search, dijkstra algorithm, directional search, shortest path",data structure and algorithm
+binary search,"big-o notation, comparison based sort, search algorithm",data structure and algorithm
+brute force approach,big-o notation,data structure and algorithm
+heap sort,"big-o notation, binary max heap, binary tree, comparison based algorithm, comparison based sort, priority queue, sort algorithm",data structure and algorithm
+knockout tournament,"big-o notation, randomized selection algorithm, selection problem",data structure and algorithm
+kruskal algorithm,"big-o notation, connected component, minimum spanning tree, spanning tree",data structure and algorithm
+linear time algorithm,big-o notation,data structure and algorithm
+merge sort,"big-o notation, comparison based algorithm, comparison based sort, deterministic algorithm, increasing order, priority queue",data structure and algorithm
+mst algorithm,"big-o notation, breadth first search, depth first search, graph algorithms, greedy algorithm, minimum spanning tree, mst problem, spanning tree, spanning tree algorithm, spanning tree problem, sub graph, undirected graph",data structure and algorithm
+programming algorithms,"big-o notation, discrete probability",data structure and algorithm
+quadratic time algorithm,"big-o notation, polynomial time",data structure and algorithm
+quick sort,"big-o notation, comparison based algorithm, comparison based sort, increasing order, recursive algorithm, recursive call",data structure and algorithm
+randomized algorithm,big-o notation,data structure and algorithm
+randomized selection algorithm,"big-o notation, random variable, randomized algorithm, select algorithm, selection problem, sort algorithm, sorting problem",data structure and algorithm
+select algorithm,"big-o notation, comparison based sort, increasing order, knockout tournament, selection problem, sort algorithm",data structure and algorithm
+sort algorithm,"big-o notation, big omega, increasing order, random permutation, sorting problem",data structure and algorithm
+spanning tree algorithm,"big-o notation, greedy algorithm, spanning tree, spanning tree problem, undirected graph",data structure and algorithm
+binary search tree,"binary code, binary search, binary tree, comparison based sort, search tree, search tree algorithm",data structure and algorithm
+binary tree,"binary code, search tree",data structure and algorithm
+binary max heap,"binary heap, binary tree, complete binary tree",data structure and algorithm
+binary heap,"binary search, binary tree, complete binary tree, doubly linked list, heap sort, linked list",data structure and algorithm
+priority queue,"binary heap, binary max heap, linked list, sort algorithm",data structure and algorithm
+optimal binary search,"binary search, binary search tree, binary tree, brute force approach, optimal substructure lemma, search tree, search tree algorithm, search tree problem, weighted search",data structure and algorithm
+complete binary tree,"binary tree, connected graph",data structure and algorithm
+interval search tree,"binary tree, interval search, range search, search tree, sub tree",data structure and algorithm
+bipartite graph,directed graph,data structure and algorithm
+bipartite matching,network flows,data structure and algorithm
+hash tables,birthday paradox,data structure and algorithm
+edmonds-karp algorithm,"breadth first search, depth first search, ford-fulkerson algorithm, network flows, residual graph, residual network",data structure and algorithm
+ford-fulkerson algorithm,"breadth first search, depth first search, network flows, residual graph, residual network",data structure and algorithm
+dynamic program,"brute force approach, divide-and-conquer algorithm, dynamic programming matrix, dynamic programming paradigm, edit distance problem, fractional knapsack, graph algorithms, graph search, independence set problem, iterative algorithm, polynomial algorithm, polynomial time, polynomial time algorithm, programming algorithms, traveling salesman problem",data structure and algorithm
+dynamic programming paradigm,brute force approach,data structure and algorithm
+optimal substructure lemma,"brute force approach, sub tree",data structure and algorithm
+traveling salesman problem,"brute force approach, edge weight, search problem, undirected graph",data structure and algorithm
+bubble sort,"increasing order, quadratic algorithm, sort algorithm, sorting problem",data structure and algorithm
+bucket sort,"deterministic algorithm, sort algorithm",data structure and algorithm
+stable sort,"bucket sort, sort algorithm",data structure and algorithm
+closest pair algorithm,"euclidean distance, quadratic time algorithm, randomized algorithm, recursive algorithm, recursive call",data structure and algorithm
+clustering problem,euclidean distance,data structure and algorithm
+greedy clustering,"clustering problem, connected component, greedy algorithm",data structure and algorithm
+randomized quick sort,"comparison based algorithm, increasing order, quick sort, randomized algorithm, sort algorithm, sorting problem",data structure and algorithm
+selection sort,"comparison based algorithm, increasing order, select algorithm, sort algorithm, sorting problem",data structure and algorithm
+comparison based algorithm,sort algorithm,data structure and algorithm
+comparison based sort,sort algorithm,data structure and algorithm
+union find,"compression optimization, search tree, union approach",data structure and algorithm
+contraction algorithm,"connected component, connected graph, minimum cut problem, randomized algorithm, undirected graph",data structure and algorithm
+empty cut lemma,"connected component, connected graph",data structure and algorithm
+spanning tree,"connected graph, graph algorithms, sub graph, undirected graph",data structure and algorithm
+random contraction algorithm,"contraction algorithm, minimum cut problem, randomized algorithm, undirected graph",data structure and algorithm
+contraction hierarchies,"dijkstra algorithm, directed edge, directional search, shortest path",data structure and algorithm
+cryptographic hash,hash tables,data structure and algorithm
+de bruijn graph,"directed edge, directed graph, eulerian cycle, eulerian path, hamiltonian cycle",data structure and algorithm
+deterministic algorithm,"decomposition principle, sort algorithm, stable sort",data structure and algorithm
+divide-and-conquer algorithm,"decomposition principle, merge sort, selection sort",data structure and algorithm
+deterministic hash function,hash tables,data structure and algorithm
+dijkstra algorithm,"directed graph, directional search, edge weight, shortest path, undirected graph",data structure and algorithm
+directed graph,"directed edge, edge weight",data structure and algorithm
+directional search,"directed graph, search algorithm",data structure and algorithm
+eulerian cycle,"directed graph, eulerian path, undirected graph",data structure and algorithm
+eulerian path,directed graph,data structure and algorithm
+hamiltonian cycle,"directed graph, search problem, traveling salesman problem, undirected graph",data structure and algorithm
+doubly linked list,linked list,data structure and algorithm
+dual program,programming problems,data structure and algorithm
+minimum cut problem,"edge weight, image segmentation, programming problems, undirected graph",data structure and algorithm
+minimum dist,edge weight,data structure and algorithm
+minimum spanning tree,"edge weight, euclidean distance, minimum dist, spanning tree, spanning tree algorithm, spanning tree problem",data structure and algorithm
+shortest path,"edge weight, euclidean distance, network flows, undirected graph",data structure and algorithm
+shortest path algorithm,"edge weight, euclidean distance, graph algorithms, greedy algorithm, shortest path, shortest path problem, smallest greedy, undirected graph",data structure and algorithm
+shortest path problem,"edge weight, shortest path, sub graph, traveling salesman problem",data structure and algorithm
+knuth-morris-pratt algorithm,"exact pattern matching, pattern matching",data structure and algorithm
+exact pattern matching,"pattern matching, string algorithms",data structure and algorithm
+suffix tree,"exact pattern matching, pattern matching",data structure and algorithm
+greedy algorithm,"fractional knapsack, mst problem, optimal substructure lemma, programming algorithms, shortest path problem, spanning tree problem",data structure and algorithm
+generic graph search,graph search,data structure and algorithm
+search tree,"graph algorithms, linked list, search problem, unbalanced tree",data structure and algorithm
+greedy heuristic,greedy algorithm,data structure and algorithm
+random hash,"hash tables, random hash function, random variable",data structure and algorithm
+random hash function,"hash tables, random variable",data structure and algorithm
+image segmentation,undirected graph,data structure and algorithm
+sorting problem,increasing order,data structure and algorithm
+independence set problem,search problem,data structure and algorithm
+intersection search,search problem,data structure and algorithm
+interval search,"range search, search problem",data structure and algorithm
+karatsuba multiplication,"recursive algorithm, recursive call",data structure and algorithm
+lazy union approach,"union approach, union find",data structure and algorithm
+left-leaning red-black tree,"red black tree, regular binary search, search tree",data structure and algorithm
+range search,"line segments, search problem",data structure and algorithm
+sweep line algorithm,line segments,data structure and algorithm
+linear inequality,linear function,data structure and algorithm
+linear function,"linear problem, linear programming problems, programming problems",data structure and algorithm
+linear program,"linear function, linear problem, linear programming problems, programming algorithms, programming problems",data structure and algorithm
+linear probing,random variable,data structure and algorithm
+linear programming problems,programming problems,data structure and algorithm
+linear search,search algorithm,data structure and algorithm
+sub tree,linked list,data structure and algorithm
+mst problem,"minimum spanning tree, spanning tree, spanning tree problem, sub graph, undirected graph",data structure and algorithm
+mst verification,"minimum spanning tree, mst algorithm, spanning tree",data structure and algorithm
+naive recursive algorithm,recursive algorithm,data structure and algorithm
+network flows,"residual graph, residual network",data structure and algorithm
+np-complete problem,traveling salesman problem,data structure and algorithm
+pattern matching,string algorithms,data structure and algorithm
+suffix trie,"pattern matching, suffix tree",data structure and algorithm
+polynomial algorithm,"polynomial time, polynomial time algorithm",data structure and algorithm
+polynomial hash,random hash,data structure and algorithm
+polynomial time algorithm,polynomial time,data structure and algorithm
+residual network,"programming problems, residual graph",data structure and algorithm
+quadratic algorithm,quadratic time algorithm,data structure and algorithm
+recursive algorithm,recursive call,data structure and algorithm
+regular binary search,search problem,data structure and algorithm
+residual graph,undirected graph,data structure and algorithm
+search algorithm,search problem,data structure and algorithm
+search tree algorithm,"search problem, search tree, search tree problem",data structure and algorithm
+search tree problem,search tree,data structure and algorithm
+shortest path tree,"shortest path, undirected graph",data structure and algorithm
+spanning tree problem,spanning tree,data structure and algorithm
