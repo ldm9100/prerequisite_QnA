@@ -55,3 +55,6 @@ Chatbot which can interactively give question and get response
 export OPENAI_API_KEY="your key"
 ```
 You should get API key from openAI to use baseline.py, evaluation.py, QnAbot.py
+
+## finetuning.ipynb
+Fine-tuning code
